@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Karthika
 
-### Ambitious frontend and web developer with a love for coding
+### Ambitious front-end and web developer and aspiring Software developer, with a passion for coding.
 
 - 🔭 Here's my [portfolio](https://karthikashan1708.github.io/Portfolio/)                                                 
 - 🌱 I’m currently learning ReactJS and sql to my workflow
